@@ -2,8 +2,8 @@
 ## Master program: Cloud, network infrastructure and high performance computing
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dariusb12&show_icons=true&locale=en&layout=compact" alt="dariusb12" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DariusB12&" alt="dariusb12" /></p>
 
+    
 ## 🧰 Technologies & Tools
 
 | AWS | Bash | Git | Linux |
