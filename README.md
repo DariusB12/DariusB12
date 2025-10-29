@@ -1,4 +1,4 @@
-## UBB FMI student, I year
+## UBB FMI Cluj-Napoca Master student, I year
 ## Master program: Cloud, network infrastructure and high performance computing
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dariusb12&show_icons=true&locale=en&layout=compact" alt="dariusb12" /></p>
